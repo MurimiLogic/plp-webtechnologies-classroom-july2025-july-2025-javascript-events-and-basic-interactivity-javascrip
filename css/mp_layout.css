@@ -1,19 +1,4 @@
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 1
-   Review Assignment
-   Filename: mp_layout.css
 
-   This file contains the layout styles used in the Mobile Panini website
-
-*/
-
-/* =============================================
-	Base layout styles used by mobile devices
-	up to 480px and cascaded to larger devices 
-	unless superceded by other styles.
-   =============================================
-*/
 
 @charset "utf-8";
 html {
@@ -300,3 +285,4 @@ article div p {
 }
 
 }
+
