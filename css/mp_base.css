@@ -1,18 +1,3 @@
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 1
-   Review Assignment
-   Filename: mp_base.css
-
-   This file contains the base styles used by all pages in the website
-
-*/
-
-
-/* =============================================
-	HTML5 structural elements
-   =============================================
-*/
 
 article, aside, details, dl, figcaption, figure, footer, header, main, nav, section {
 	display: block;
@@ -254,3 +239,4 @@ table {
 td, th {
 	vertical-align: top;
 }
+
